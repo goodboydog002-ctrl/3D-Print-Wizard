@@ -8,16 +8,7 @@ A simple browser-based app that lets you **generate and view 3D printable models
 - Export models to **STL** format for 3D printing.
 - Choose between **millimeters** and **inches** before exporting.
 
-## 🧭 How to Host on GitHub Pages
-1. Go to [GitHub.com](https://github.com) → Create a new repository (public).
-2. Upload `index.html` and this `README.md`.
-3. Commit the changes.
-4. Go to **Settings → Pages**.
-5. Under **Source**, select `main` branch and `/ (root)` folder, then click **Save**.
-6. Wait 1–2 minutes. Your site will be live at:
-
-   `https://yourusername.github.io/3d-print-wizard`
-
+   
 ## 💡 Example Prompt
 ```
 cube 20
