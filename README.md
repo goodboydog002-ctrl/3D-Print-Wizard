@@ -15,4 +15,3 @@ cube 20
 translate 30 0 0
 sphere 10
 color #ff8844
-```
